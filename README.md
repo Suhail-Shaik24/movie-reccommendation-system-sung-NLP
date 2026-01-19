@@ -52,7 +52,7 @@ Response:
 ## How to Run the Project
 
 1. Clone the repository
-   git clone [https://github.com/your-username/nlp-movie-recommendation-system.git][(https://github.com/Suhail-Shaik24/movie-reccommendation-system-sung-NLP](https://github.com/Suhail-Shaik24/movie-reccommendation-system-sung-NLP.git)
+   git clone [https://github.com/Suhail-Shaik24/nlp-movie-recommendation-system.git][(https://github.com/Suhail-Shaik24/movie-reccommendation-system-sung-NLP](https://github.com/Suhail-Shaik24/movie-reccommendation-system-sung-NLP.git)
    cd nlp-movie-recommendation-system
 
 2. Install dependencies
